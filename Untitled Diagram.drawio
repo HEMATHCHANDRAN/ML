@@ -1,9 +1,113 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Page-1" id="f5AIi6hxwdoiLlhEDSTm">
-    <mxGraphModel>
+    <mxGraphModel dx="1560" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="3BQgd7bBC_y8RNgucwCz-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3BQgd7bBC_y8RNgucwCz-1" target="3BQgd7bBC_y8RNgucwCz-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="265" y="160" />
+              <mxPoint x="265" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3BQgd7bBC_y8RNgucwCz-1" value="PO/PSO Attainment (Direct Attainment)" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacingTop=1;spacingLeft=1;spacingBottom=1;spacingRight=1;spacing=2;horizontal=1;fontFamily=Times New Roman;fontSize=15;labelBackgroundColor=none;textShadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="185" y="80" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3BQgd7bBC_y8RNgucwCz-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3BQgd7bBC_y8RNgucwCz-2" target="3BQgd7bBC_y8RNgucwCz-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="265" y="300" />
+              <mxPoint x="265" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3BQgd7bBC_y8RNgucwCz-2" value="Formulation of CO-PO and PSO Mapping of all courses" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacingTop=1;spacingLeft=1;spacingBottom=1;spacingRight=1;spacing=2;horizontal=1;fontFamily=Times New Roman;fontSize=15;labelBackgroundColor=none;textShadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="185" y="190" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3BQgd7bBC_y8RNgucwCz-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3BQgd7bBC_y8RNgucwCz-3" target="3BQgd7bBC_y8RNgucwCz-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="257" y="410" />
+              <mxPoint x="257" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3BQgd7bBC_y8RNgucwCz-3" value="PO/PSO Assessment through CO-PO and PSO Mapping with CO" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacingTop=1;spacingLeft=1;spacingBottom=1;spacingRight=1;spacing=2;horizontal=1;fontFamily=Times New Roman;fontSize=15;labelBackgroundColor=none;textShadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="310" width="154" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3BQgd7bBC_y8RNgucwCz-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3BQgd7bBC_y8RNgucwCz-4" target="3BQgd7bBC_y8RNgucwCz-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="495" y="290" />
+              <mxPoint x="495" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3BQgd7bBC_y8RNgucwCz-4" value="Formulation of Survey Forms" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacingTop=1;spacingLeft=1;spacingBottom=1;spacingRight=1;spacing=2;horizontal=1;perimeterSpacing=0;fontFamily=Times New Roman;fontSize=15;labelBackgroundColor=none;textShadow=0;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="420" y="190" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3BQgd7bBC_y8RNgucwCz-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="3BQgd7bBC_y8RNgucwCz-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="498.5" y="370" as="sourcePoint" />
+            <mxPoint x="491.4999999999999" y="430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="490" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3BQgd7bBC_y8RNgucwCz-5" value="PO/PSO Assessment through Survey Forms" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacingTop=1;spacingLeft=1;spacingBottom=1;spacingRight=1;spacing=2;horizontal=1;fontFamily=Times New Roman;fontSize=15;labelBackgroundColor=none;textShadow=0;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="416" y="310" width="154" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3BQgd7bBC_y8RNgucwCz-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3BQgd7bBC_y8RNgucwCz-6" target="3BQgd7bBC_y8RNgucwCz-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="496" y="180" />
+              <mxPoint x="496" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3BQgd7bBC_y8RNgucwCz-6" value="PO/PSO Attainment (Indirect Attainment)" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacingTop=1;spacingLeft=1;spacingBottom=1;spacingRight=1;spacing=2;horizontal=1;fontFamily=Times New Roman;fontSize=15;labelBackgroundColor=none;textShadow=0;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="422" y="80" width="148" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3BQgd7bBC_y8RNgucwCz-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=15;align=center;verticalAlign=middle;spacingTop=1;spacingLeft=1;spacingBottom=1;spacingRight=1;spacing=2;horizontal=1;" edge="1" parent="1" source="3BQgd7bBC_y8RNgucwCz-7" target="3BQgd7bBC_y8RNgucwCz-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="313" y="510" />
+              <mxPoint x="313" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3BQgd7bBC_y8RNgucwCz-7" value="Calculate Overall PO/PSO&amp;nbsp;&lt;div&gt;Attainment: Direct (90%) + Indirect (10%)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;align=center;verticalAlign=middle;spacingTop=1;spacingLeft=1;spacingBottom=1;spacingRight=1;spacing=2;horizontal=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="220" y="430" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3BQgd7bBC_y8RNgucwCz-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=15;align=center;verticalAlign=middle;spacingTop=1;spacingLeft=1;spacingBottom=1;spacingRight=1;spacing=2;horizontal=1;" edge="1" parent="1" source="3BQgd7bBC_y8RNgucwCz-8" target="3BQgd7bBC_y8RNgucwCz-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3BQgd7bBC_y8RNgucwCz-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=15;align=center;verticalAlign=middle;spacingTop=1;spacingLeft=1;spacingBottom=1;spacingRight=1;spacing=2;horizontal=1;" edge="1" parent="1" source="3BQgd7bBC_y8RNgucwCz-8" target="3BQgd7bBC_y8RNgucwCz-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="313" y="680" />
+              <mxPoint x="313" y="680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3BQgd7bBC_y8RNgucwCz-8" value="Attained?" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;align=center;verticalAlign=middle;spacingTop=1;spacingLeft=1;spacingBottom=1;spacingRight=1;spacing=2;horizontal=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="273" y="540" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3BQgd7bBC_y8RNgucwCz-12" value="Increase the Competency and Level of attainment for the next academic year" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;align=center;verticalAlign=middle;spacingTop=1;spacingLeft=1;spacingBottom=1;spacingRight=1;spacing=2;horizontal=1;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" vertex="1" parent="1">
+          <mxGeometry x="433" y="550" width="177" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3BQgd7bBC_y8RNgucwCz-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=15;align=center;verticalAlign=middle;spacingTop=1;spacingLeft=1;spacingBottom=1;spacingRight=1;spacing=2;horizontal=1;" edge="1" parent="1" source="3BQgd7bBC_y8RNgucwCz-14" target="3BQgd7bBC_y8RNgucwCz-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3BQgd7bBC_y8RNgucwCz-14" value="Discussion in PAC Meeting&amp;nbsp;&lt;div&gt;Change in content delivery&amp;nbsp;&lt;/div&gt;&lt;div&gt;Change in assessment method&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;align=center;verticalAlign=middle;spacingTop=1;spacingLeft=1;spacingBottom=1;spacingRight=1;spacing=2;horizontal=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="210" y="700" width="187" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3BQgd7bBC_y8RNgucwCz-16" value="Implement the necessary changes in the next academic year" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Times New Roman;fontSize=15;align=center;verticalAlign=middle;spacingTop=1;spacingLeft=1;spacingBottom=1;spacingRight=1;spacing=2;horizontal=1;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="427" y="700" width="213" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
