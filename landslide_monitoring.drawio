@@ -1,9 +1,82 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
   <diagram name="Page-1" id="lX6KFraymBeUOsmvgpBd">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="WgHSnuHPAQqxPD_X95s2-34" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="60" y="90" width="650" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="WgHSnuHPAQqxPD_X95s2-33" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="WgHSnuHPAQqxPD_X95s2-34">
+          <mxGeometry y="-5" width="650" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="WgHSnuHPAQqxPD_X95s2-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;verticalAlign=middle;fontFamily=Times New Roman;fontSize=16;" edge="1" parent="WgHSnuHPAQqxPD_X95s2-34" source="WgHSnuHPAQqxPD_X95s2-3" target="WgHSnuHPAQqxPD_X95s2-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WgHSnuHPAQqxPD_X95s2-3" value="ESP32&amp;nbsp;&lt;br&gt;Controller" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;verticalAlign=middle;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="WgHSnuHPAQqxPD_X95s2-34">
+          <mxGeometry x="300" y="60" width="110" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="WgHSnuHPAQqxPD_X95s2-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;verticalAlign=middle;fontFamily=Times New Roman;fontSize=16;" edge="1" parent="WgHSnuHPAQqxPD_X95s2-34" source="WgHSnuHPAQqxPD_X95s2-4" target="WgHSnuHPAQqxPD_X95s2-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WgHSnuHPAQqxPD_X95s2-4" value="mmWave Sensor" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;verticalAlign=middle;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="WgHSnuHPAQqxPD_X95s2-34">
+          <mxGeometry x="30" y="60" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WgHSnuHPAQqxPD_X95s2-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;verticalAlign=middle;fontFamily=Times New Roman;fontSize=16;" edge="1" parent="WgHSnuHPAQqxPD_X95s2-34" source="WgHSnuHPAQqxPD_X95s2-5" target="WgHSnuHPAQqxPD_X95s2-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WgHSnuHPAQqxPD_X95s2-5" value="MH-Z19B Sensor" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;verticalAlign=middle;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="WgHSnuHPAQqxPD_X95s2-34">
+          <mxGeometry x="30" y="130" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WgHSnuHPAQqxPD_X95s2-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;verticalAlign=middle;fontFamily=Times New Roman;fontSize=16;" edge="1" parent="WgHSnuHPAQqxPD_X95s2-34" source="WgHSnuHPAQqxPD_X95s2-6" target="WgHSnuHPAQqxPD_X95s2-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WgHSnuHPAQqxPD_X95s2-6" value="MLX90614 Sensor" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;verticalAlign=middle;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="WgHSnuHPAQqxPD_X95s2-34">
+          <mxGeometry x="30" y="200" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WgHSnuHPAQqxPD_X95s2-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;verticalAlign=middle;fontFamily=Times New Roman;fontSize=16;" edge="1" parent="WgHSnuHPAQqxPD_X95s2-34" source="WgHSnuHPAQqxPD_X95s2-7" target="WgHSnuHPAQqxPD_X95s2-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WgHSnuHPAQqxPD_X95s2-7" value="SW-420&lt;div&gt;Vibration Sensor&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;verticalAlign=middle;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="WgHSnuHPAQqxPD_X95s2-34">
+          <mxGeometry x="30" y="270" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WgHSnuHPAQqxPD_X95s2-25" value="SIM800L" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;verticalAlign=middle;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="WgHSnuHPAQqxPD_X95s2-34">
+          <mxGeometry x="500" y="95" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WgHSnuHPAQqxPD_X95s2-26" value="&lt;div style=&quot;&quot;&gt;&lt;font&gt;&lt;span style=&quot;background-color: transparent; text-wrap-mode: nowrap;&quot;&gt;NEO 6&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;M GPS Module&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;verticalAlign=middle;fontFamily=Times New Roman;fontSize=16;align=center;" vertex="1" parent="WgHSnuHPAQqxPD_X95s2-34">
+          <mxGeometry x="500" y="165" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WgHSnuHPAQqxPD_X95s2-28" value="Indicator&lt;br&gt;Led &amp;amp; Buzzer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;verticalAlign=middle;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="WgHSnuHPAQqxPD_X95s2-34">
+          <mxGeometry x="500" y="235" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WgHSnuHPAQqxPD_X95s2-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;verticalAlign=middle;fontFamily=Times New Roman;fontSize=16;" edge="1" parent="WgHSnuHPAQqxPD_X95s2-34" target="WgHSnuHPAQqxPD_X95s2-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="194.5" as="sourcePoint" />
+            <mxPoint x="500" y="194.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="455" y="195" />
+              <mxPoint x="455" y="125" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WgHSnuHPAQqxPD_X95s2-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;verticalAlign=middle;fontFamily=Times New Roman;fontSize=16;" edge="1" parent="WgHSnuHPAQqxPD_X95s2-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="195.25" as="sourcePoint" />
+            <mxPoint x="500" y="264.75" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="455" y="194.75" />
+              <mxPoint x="455" y="264.75" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
